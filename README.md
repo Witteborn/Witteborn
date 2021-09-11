@@ -2,9 +2,9 @@
 
 ## Hello World! <img src="./Assets/Hi.gif" width="30px"></h2>
 ### Welcome to my Github account!
-![](https://raw.githubusercontent.com/Witteborn/Witteborn/GH-1-Readme/profile-summary-card-output/github_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Witteborn/Witteborn/GH-1-Readme/profile-summary-card-output/github_dark/3-stats.svg)
-![](https://raw.githubusercontent.com/Witteborn/Witteborn/GH-1-Readme/profile-summary-card-output/github_dark/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Witteborn/Witteborn/develop/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Witteborn/Witteborn/develop/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/Witteborn/Witteborn/develop/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ## Find me around the web 🌍
 
