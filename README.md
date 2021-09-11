@@ -1,19 +1,36 @@
 <!-- tell more about you here -->
 
+## Hello World! <img src="./Assets/Hi.gif" width="30px"></h2>
+### Welcome to my Github account!
+![](https://raw.githubusercontent.com/Witteborn/Witteborn/GH-1-Readme/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Witteborn/Witteborn/GH-1-Readme/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/Witteborn/Witteborn/GH-1-Readme/profile-summary-card-output/github_dark/4-productive-time.svg)
+
+## Find me around the web 🌍
+
+[<img align="center" height="40" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/g%C3%B6khan-witteborn-demir-2582a1220/) [LinkedIn](https://www.linkedin.com/in/g%C3%B6khan-witteborn-demir-2582a1220/) <br>
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/WittebornDemir)
+[Twitter](https://twitter.com/WittebornDemir) <br>
+[<img align="center" height="40" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/>](https://medium.com/@witteborn)
+[Medium](https://medium.com/@witteborn) <br>
+[<img align="center" height="40" src="https://img.icons8.com/fluency/240/000000/reddit.png"/>](https://www.reddit.com/u/Witteborn)
+[Reddit](https://www.reddit.com/u/Witteborn) <br>
 
 
-# Contribution
-Pull request are very welcome, please open an issue in advance.
 
-Please check out our [Contribution Guidelines](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md) before creating a pull request.
+<!--
+## My Resume
+[<img align="center" height="50" src="https://img.icons8.com/fluent/144/000000/resume-website.png"/>](./Resume.md) [Resume](./Resume.md)
+<br/>
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+-->
 
-# Support
-If you need any help check out our [Support](./SUPPORT.md) file.
-
-# Security
-
-Have you found a security issue? a vulnerability? or simply have some concerns?
-Checkout our [Security file](./SECURITY.md) to see how you can report them safely.
-
-# Thank you
-[GitHubBoilerplate](https://github.com/Witteborn/GitHubBoilerplate) for providing a quick and easy project setup.
+## Source references and thanks to
+### Icons
+<a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>
+<br>
+<a href="https://icons8.com/icon/h3FOPWMfgNnV/reddit">Reddit icon by Icons8</a>
+<br>
+<a href="https://icons8.com/icon/5MQ0gPAYYx7a/twitter">Twitter icon by Icons8</a>
+<br>
+<a href="https://icons8.com/icon/110611/mittleres-monogramm">Mittleres Monogramm icon by Icons8</a>
