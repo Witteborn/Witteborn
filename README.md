@@ -1,7 +1,10 @@
 <!-- tell more about you here -->
 
 ## Hello World! <img src="./Assets/Hi.gif" width="30px"></h2>
-
+### Welcome to my Github account!
+![](https://raw.githubusercontent.com/Witteborn/Witteborn/GH-1-Readme/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Witteborn/Witteborn/GH-1-Readme/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/Witteborn/Witteborn/GH-1-Readme/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ## Find me around the web 🌍
 
@@ -12,6 +15,8 @@
 [Medium](https://medium.com/@witteborn) <br>
 [<img align="center" height="40" src="https://img.icons8.com/fluency/240/000000/reddit.png"/>](https://www.reddit.com/u/Witteborn)
 [Reddit](https://www.reddit.com/u/Witteborn) <br>
+
+
 
 <!--
 ## My Resume
