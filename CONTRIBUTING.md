@@ -14,7 +14,7 @@ By contributing, you assert that:
 ## How to Contribute
 
 ### Where to find open issues
-Generally you can find and work on open issues [here](https://github.com/Witteborn/GitHubBoilerplate/issues)
+Generally you can find and work on open issues [here](https://github.com/Witteborn/Witteborn/issues)
 
 If something is on the issues list with the 'Up For Grabs' label or no one is asigned yet you can feel free to work on it. You should comment that you are signing up for it on the issue so someone else doesn't also sign up for the work.
 
